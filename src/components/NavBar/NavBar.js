@@ -37,6 +37,8 @@ function NavBar(props) {
         aria-controls="nav-hero" aria-selected="true" style={{fontWeight: '700', color: '#fff'}} to="/skills/">Skills</Link>
         <Link className="nav-item nav-link active" id="nav-hero-tab" data-toggle="tab" href="#nav-hero" role="tab"
           aria-controls="nav-hero" aria-selected="true" style={{fontWeight: '700', color: '#fff'}} to="/employees/">Employees</Link>
+          <Link className="nav-item nav-link active" id="nav-hero-tab" data-toggle="tab" href="#nav-hero" role="tab"
+          aria-controls="nav-hero" aria-selected="true" style={{fontWeight: '700', color: '#fff'}} to="/training/">Training</Link>
     </div>
   </nav>
 </div>
