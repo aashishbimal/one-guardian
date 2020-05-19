@@ -1,5 +1,5 @@
 import React from 'react';
-import CardList from './Card/CardList';
+
 
 function Card(props) {
 
