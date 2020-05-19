@@ -17,32 +17,32 @@ function Card(props) {
           "id": "5b6c6aeb01a7c38429530884"
         },
         {
-            "name": "Internet of things",
-            "imageURL": "/images/internet-of-things.jpg",
+            "name": "Machine Learning",
+            "imageURL": "/images/Machine-learning.png",
             "description": "The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.",
             "id": "5b6c6aeb01a7c38429530884"
           },
           {
-            "name": "Internet of things",
-            "imageURL": "/images/internet-of-things.jpg",
+            "name": "Augmented Reality",
+            "imageURL": "/images/Augmented-reality.jpg",
             "description": "The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.",
             "id": "5b6c6aeb01a7c38429530884"
           },
           {
-            "name": "Internet of things",
-            "imageURL": "/images/internet-of-things.jpg",
+            "name": "RPA UI Path",
+            "imageURL": "/images/rpa.png",
             "description": "The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.",
             "id": "5b6c6aeb01a7c38429530884"
           },
           {
-            "name": "Internet of things",
-            "imageURL": "/images/internet-of-things.jpg",
+            "name": "Machine Learning",
+            "imageURL": "/images/Machine-learning.png",
             "description": "The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.",
             "id": "5b6c6aeb01a7c38429530884"
           },
           {
-            "name": "Internet of things",
-            "imageURL": "/images/internet-of-things.jpg",
+            "name": "Augmented Reality",
+            "imageURL": "/images/Augmented-reality.jpg",
             "description": "The Internet of things (IoT) is a system of interrelated computing devices, mechanical and digital machines provided with unique identifiers (UIDs) and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction.",
             "id": "5b6c6aeb01a7c38429530884"
           },
