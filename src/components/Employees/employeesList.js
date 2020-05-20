@@ -5,19 +5,19 @@ function Employee(props) {
 
     const data = [
         {
-          "name": "Farhan",
+          "name": "Farhan Aslam",
           "imageURL": "/images/farhan.jpg",
           "description": "React",
           "id": "5b6c6a7f01a7c38429530883"
         },
         {
-          "name": "Sahil",
+          "name": "Sahil Satija",
           "imageURL": "/images/sahil.jpg",
           "description": "React",
           "id": "5b6c6aeb01a7c38429530884"
         },
         {
-            "name": "Ashish",
+            "name": "Ashish Bimal",
             "imageURL": "/images/ashish.jpg",
             "description": "DotNet",
             "id": "5b6c6aeb01a7c38429530884"
